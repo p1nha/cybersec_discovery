@@ -1,0 +1,16 @@
+alfbermu@c2r8s5 ~/c/basics [1]> chmod 777 message.sh
+
+
+
+alfbermu@c2r8s5 ~/c/basics> ls -l
+total 4
+-rwxrwxrwx 1 alfbermu 2024 10 Nov 30  2023 message.sh
+
+
+alfbermu@c2r5s4 ~/c/b/shell01 [1]> ./message.sh 3
+This looks good, @alrodri2!
+This looks good, @alrodri2!
+This looks good, @alrodri2!
+
+
+
